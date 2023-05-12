@@ -3,6 +3,6 @@ public class diff{
     {
         int a=1;
         int b=3;
-    System.out.println("the difference is"+(a-b));
+    System.out.println((a-b));
     }
 }
